@@ -1,4 +1,0 @@
-JavaProjectGalAndrey
-====================
-
-JavaProjectGalAndrey
